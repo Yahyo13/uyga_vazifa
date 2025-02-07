@@ -1,0 +1,41 @@
+body{
+    background-color: darkslategrey;
+}
+h1{
+    color: white;
+    background-color: rgb(83, 34, 12);
+    text-align: center;
+    width: 280px;
+    padding: 5px;
+  margin: 0 auto;
+}
+
+ .perviy{
+    border: 5px solid red;
+    background-color: black;
+    width: 570px;
+    height: 330px;
+    margin: 0 auto;
+    margin-top: 50px;
+} 
+
+.one{
+    background-color: aqua;
+    width: 500px;
+   
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.two{
+    background-color: aqua;
+    width: 500px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
